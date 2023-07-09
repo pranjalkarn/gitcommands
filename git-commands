@@ -1,0 +1,43 @@
+                                                                LINUX COMMANDS
+step 1 .git init
+
+USE:-This command initilize the git repostiory
+
+step 2  .git status
+
+USE:-This command show you in which branch of your file was stored and 
+         also help you to indicate from red color to info you that was your
+         folder was untracked.
+
+step 3     .git add .
+
+USE:- this command use to add folder
+
+step 4   .git status
+
+USE:- After the add command this may help you from indicating by 
+          green color means ur file was send
+
+step 5    .git commit -m 'In This place you can type your file/folder name '
+
+USE:- This commit means for comment written by user to the center
+
+step 6     .git push
+
+USE:- This command use for which file will you send and How ?
+
+step 7     .git remote add <name> and <URL>
+
+USE:- This command use for enter file name or url by making new 
+          file repositor
+
+step 8      .git remote add origin <Enter URL>
+
+
+step 9  .git push -u origin master/main
+
+USE :- use to in which branch do u added and your flie was sended or not means result
+
+
+
+NOTE:- In the place of URL you should enter your file URL by copying from web site by the creating new repositor
